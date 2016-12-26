@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 if test ! "${SUMO_COLLECTOR}"; then
     SUMO_COLLECTOR=endpoint1.collection.eu.sumologic.com
